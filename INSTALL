@@ -1,0 +1,9 @@
+Building BitCashCredit
+
+See doc/readme-qt.rst for instructions on building BitCashCredit QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BitCashCredit.
+
+See doc/build-*.txt for instructions on building bitcashcreditd,
+the intended-for-services, no-graphical-interface, reference
+implementation of BitCashCredit.
